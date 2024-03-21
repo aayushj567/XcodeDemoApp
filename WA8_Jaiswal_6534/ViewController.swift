@@ -13,10 +13,5 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-    
-    func checkGitPush(){
-        print("Hello World")
-    }
-
 }
 
